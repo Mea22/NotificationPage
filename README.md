@@ -2,8 +2,8 @@
 
 ## Links
 
-- solution URL: https://github.com/Mea22/notificationPage
-- Live site URL:  https://mea22.github.io/notificationPage/
+- solution URL: https://github.com/Mea22/NotificationPage
+- Live site URL:  https://mea22.github.io/NotificationPage/
 
 ### Built With
 
